@@ -1,0 +1,6 @@
+C:\code\xamarinkursus\IntroToSharp\IntroToSharp\bin\Debug\IntroToSharp.exe.config
+C:\code\xamarinkursus\IntroToSharp\IntroToSharp\bin\Debug\IntroToSharp.exe
+C:\code\xamarinkursus\IntroToSharp\IntroToSharp\bin\Debug\IntroToSharp.pdb
+C:\code\xamarinkursus\IntroToSharp\IntroToSharp\obj\Debug\IntroToSharp.csprojResolveAssemblyReference.cache
+C:\code\xamarinkursus\IntroToSharp\IntroToSharp\obj\Debug\IntroToSharp.exe
+C:\code\xamarinkursus\IntroToSharp\IntroToSharp\obj\Debug\IntroToSharp.pdb
